@@ -1,4 +1,4 @@
-Hello world, I'm Bruhad Dave. 
+<h1 align="center">Hello, World!</h1>
 
 I'm really interested in learning the ropes of computer science and programming to apply to infectious disease research. I have experience working with genomic & transcriptomic data (NGS) and long-read sequencing data, and I've used Python, R and Bash (and a SLURM-based HPC system -- PARAM Brahma @IISER, Pune) over the course of my research. My current research focusses on the malaria-causing pathogen, _Plasmodium falciparum_, which I'm studying under the supervision of Dr. Krishanpal Karmodiya at IISER, Pune. 
 
