@@ -8,7 +8,7 @@ So far, I have had the opportunity to explore RNA "mutations" in *Plasmodium fal
 
 At the moment, I am working with Dr Nishad Matange on analysing whole-genome sequencing data from lab-evolved drug-resistant *E. coli* cultures. I am also brushing up on my programming skills -- both in general and in the bioinformatics context -- by trying to compose exisiting and custom tools into coherent analytical workflows (part of my motivation for this comes from the fact that the installation process of many bioinformatics tools is so inconducive to inner peace).
 
-I :heart: Python and Bash (though I've still got lots to learn in both!); I am not as familiar with R (but I can make do); I planning on learning Julialang next!
+I :heart: Python and Bash (though I've still got lots to learn in both!); I am not as familiar with R (but I can make do); I plan on learning Julialang next!
 
 **`@Work!=True`**
 
