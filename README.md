@@ -12,7 +12,7 @@ I :heart: Python and Bash (though I've still got lots to learn in both!); I am n
 
 **`@Work!=True`**
 
-I enjoy reading speculative fiction broadly defined (science-fiction, fantasy, et al.); I also write in this genre[^2]<sup>,</sup>[^3]; I'm hoping to read all of the sff classics I haven't yet gotten to, some time soon! I also enjoy endlessly orgnizing things, constantly making lists of things to read/watch/listen to later, curating playlists, and running. 
+I enjoy reading speculative fiction broadly defined (science-fiction, fantasy, et al.); I also write in this genre[^2]<sup>,</sup>[^3]; I'm hoping to read all of the sff classics I haven't yet gotten to, some time soon! I also enjoy endlessly organizing stuff, constantly making lists of things to read/watch/listen to later, curating playlists, and running. 
 
 **`if "--help":`**
 
