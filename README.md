@@ -2,13 +2,11 @@
 
 **`@Work==True`**
 
-My interests lie at the intersection of evolutionary biology and infectious diseases & emerging pathogens using genomics and computational biology tools.
+I enjoy learning about and using computational/bioinformatics strategies that can help figure out how biology works. I'm broadly interested in contributing to research on human health and disease, including human genetic disorders and cancer, and especially pathogen genomics and infectious diseases. I am also interested in the area of evolutionary biology, particularly as it pertains to the aforementioned fields.
 
-So far, I have had the opportunity to explore RNA "mutations" in *Plasmodium falciparum*[^1] for my MS thesis, with Dr Krishanpal Karmodiya. I have also worked on shorter projects in a neurobiology lab -- where I attempted to find correlations between head posture and song in zebrafinches -- and a biochemistry lab (where I learned to make multilamellar lipid vesicles, and examined the vesicle-forming properties of lipid combinations). 
+I am currently a research intern at EMBL-EBI, working with Dr John Lees and contributinog to the maintenance and development of a couple of pre-existing open-source bioinformatic tools.
 
-At the moment, I am working with Dr Nishad Matange on analysing whole-genome sequencing data from lab-evolved drug-resistant *E. coli* cultures. I am also brushing up on my programming skills -- both in general and in the bioinformatics context -- by trying to compose exisiting and custom tools into coherent analytical workflows (part of my motivation for this comes from the fact that the installation process of many bioinformatics tools is so inconducive to inner peace).
-
-I :heart: Python and Bash (though I've still got lots to learn in both!); I am not as familiar with R (but I can make do); I plan on learning Julialang next!
+Previously, as a project assistant at IISER, Pune, I worked with Dr Nishad Matange's lab, analysing DNA sequencing data from lab-evolved drug-resistant *E. coli* lines, as well as performing some exploratory analysis on data from nosocomial bacteria. Before that, I completed my masters thesis under the supervison of Dr Krishanpal Karmodiya at IISER, Pune, where I examined the landscape of transcriptomic variation in the malaria parasite, *Plasmodium falciparum*[^1]
 
 **`@Work!=True`**
 
@@ -21,7 +19,7 @@ I frequently write, and sometimes also speak, parenthetically and with em dashes
 
 
 
-[^1]: Currently under review; an early preprint of this work is [on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.05.14.444266v1)
+[^1]: Read more [here](https://doi.org/10.1093/nargab/lqac036)
 
 [^2]: [A blog, now archived](https://bruhaddave.wordpress.com/)
 [^3]: [A much, **much** older blog, now archived](https://lotsofangryvoices.blogspot.com/)
