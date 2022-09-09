@@ -2,19 +2,19 @@
 
 **`@Work==True`**
 
-I enjoy learning about and using computational/bioinformatics strategies that can help figure out how biology works. I'm broadly interested in contributing to research on human health and disease, including human genetic disorders and cancer, and especially pathogen genomics and infectious diseases. I am also interested in the area of evolutionary biology, particularly as it pertains to the aforementioned fields.
+I am a bioinformatician and budding (biological) software developer interested in working on problems in human health and disease. My research interests include pathogen genomics & infectious diseases, human genetic disorders, cancer genomics, and evolutionary biology (particularly as it pertains to the aforementioned fields). 
 
-I am currently a research intern at EMBL-EBI, working with Dr John Lees and contributing to the maintenance and development of a couple of pre-existing open-source bioinformatic tools.
+I am currently a research intern at EMBL-EBI, working with Dr John Lees and contributing to the maintenance and development of a couple of pre-existing open-source bioinformatic tools. 
 
-Previously, as a project assistant at IISER, Pune, I worked with Dr Nishad Matange's lab, analysing DNA sequencing data from lab-evolved drug-resistant *E. coli* lines, as well as performing some exploratory analysis on data from nosocomial bacteria. Before that, I completed my master's thesis under the supervison of Dr Krishanpal Karmodiya at IISER, Pune, where I examined the landscape of transcriptomic variation in the malaria parasite, *Plasmodium falciparum*[^1].
+Previously, as a project assistant at IISER, Pune, I worked with Dr Nishad Matange's lab, analysing DNA sequencing data from lab-evolved drug-resistant *E. coli* lines, as well as performing some exploratory analysis on data from nosocomial bacteria. Before that, I completed my master's thesis under the supervison of Dr Krishanpal Karmodiya at IISER, Pune, where I examined the landscape of transcriptomic variation in the malaria parasite, *Plasmodium falciparum*[^1]. 
 
 **`@Work!=True`**
 
-I enjoy reading speculative fiction broadly defined (science-fiction, fantasy, et al.); I also write in this genre[^2]<sup>,</sup>[^3]; I'm hoping to read all of the sff classics I haven't yet gotten to, some time soon! I also enjoy endlessly organizing stuff, constantly making lists of things to read/watch/listen to later, curating playlists, and running. 
+I enjoy reading speculative fiction broadly defined (science-fiction, fantasy, et al.); I also write in this genre[^2]<sup>,</sup>[^3]; I'm hoping to get to all of the sff classics I haven't yet read some time soon! I also enjoy endlessly organizing stuff, constantly making lists of things to read/watch/listen to later, curating playlists, and running. 
 
 **`if "--help":`**
 
-I frequently write, and sometimes also speak, parenthetically and with em dashes 🙂.
+I frequently write -- and sometimes also speak -- parenthetically and with em dashes 🙂. 
 
 
 
