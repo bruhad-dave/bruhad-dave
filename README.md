@@ -2,7 +2,7 @@
 
 **`@Work==True`**
 
-I am a bioinformatician and budding (biological) software developer interested in working on problems in human health and disease. My research interests include pathogen genomics & infectious diseases, human genetic disorders, cancer genomics, and evolutionary biology (particularly as it pertains to the aforementioned fields). 
+I am a bioinformatician and budding (biological) software developer interested in working on problems in human health and disease. My research interests include pathogen genomics, host-pathogen interactions & coevolution, human genetic disorders and cancer genomics; and I am partial to perspectives from functional genomics and evolutionary biology. 
 
 I am currently a research intern at EMBL-EBI, working with Dr John Lees and contributing to the maintenance and development of a couple of pre-existing open-source bioinformatic tools. 
 
