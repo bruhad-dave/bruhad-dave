@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World!:wave:</h1>
+<h1 align="center">Hello, World! :wave:</h1>
 
 I am a bioinformatician and budding (biological) software developer interested in working on problems in human health and disease. My research interests include applying pespectives from functional genomics and evolutionary biology to areas such as infectious disease research, host-pathogen interactions & coevolution, human genetic disorders and cancer genomics. 
 
